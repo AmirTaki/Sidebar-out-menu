@@ -63,3 +63,7 @@ body{
     transform:  rotate(45deg) translate(-2px, -1px);
     background: #232323;
 }
+#menuToggle input:checked ~ span:nth-child(3){
+    opacity: 0;
+    transform: rotate(0deg) scale(.2, .2);
+}
