@@ -50,3 +50,7 @@ body{
                  background .5s cubic-bezier(.77, .2, .05, 1.0), 
                  opacity .55s ease;
 }
+
+#menuToggle span:first-child {
+    transform-origin: 0%, 0% ;
+}
