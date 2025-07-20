@@ -84,3 +84,9 @@ body{
     transform: translate(-100%, 0);
     transition : transform .5s cubic-bezier(.77, .2, .05, 1.0)
 }
+
+#menu li {
+    padding: 10px 0;
+    font-size : 22px;
+    
+}
